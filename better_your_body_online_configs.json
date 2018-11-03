@@ -1,0 +1,30 @@
+[
+  {
+    "key": "unlock_full_screen_ad_interval",
+    "value": "5400"
+  },
+  {
+    "key": "unlock_full_screen_ad_count_per_day",
+    "value": 16
+  },
+  {
+    "key": "unlock_full_screen_ad_auto_close_time",
+    "value": 9
+  },
+  {
+    "key": "unlock_pendant_ad_interval",
+    "value": "5400"
+  },
+  {
+    "key": "unlock_pendant_ad_count_per_day",
+    "value": "2700"
+  },
+  {
+    "key": "unlock_pendant_ad_auto_close_time",
+    "value": 9
+  },
+  {
+    "key": "unlock_ad_all_area_clickable",
+    "value": "false"
+  }
+]
