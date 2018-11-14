@@ -9,7 +9,7 @@
   },
   {
     "key": "unlock_full_screen_ad_auto_close_time",
-    "value": "9"
+    "value": "15"
   },
   {
     "key": "unlock_pendant_ad_interval",
@@ -21,10 +21,14 @@
   },
   {
     "key": "unlock_pendant_ad_auto_close_time",
-    "value": "9"
+    "value": "15"
   },
   {
     "key": "unlock_ad_all_area_clickable",
+    "value": "false"
+  },
+  {
+    "key": "unlock_ad_enabled",
     "value": "false"
   }
 ]
