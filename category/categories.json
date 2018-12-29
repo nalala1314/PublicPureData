@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "第一个分类",
+    "parentId": 0,
+    "coverUrl": ""
+  },
+  {
+    "id": 2,
+    "title": "第x个分类",
+    "parentId": 0,
+    "coverUrl": ""
+  },
+  {
+    "id": 3,
+    "title": "第N个分类",
+    "parentId": 0,
+    "coverUrl": ""
+  },
+  {
+    "id": 4,
+    "title": "第五个分类",
+    "parentId": 0,
+    "coverUrl": ""
+  }
+]
