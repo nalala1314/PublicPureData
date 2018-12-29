@@ -4,25 +4,32 @@
   "data": [
     {
       "id": 1,
-      "title": "第一个分类",
-      "parentId": 0,
+      "title": "动物",
       "coverUrl": ""
     },
     {
       "id": 2,
-      "title": "第x个分类",
-      "parentId": 0,
+      "title": "风景",
       "coverUrl": ""
     },
     {
       "id": 3,
-      "title": "第N个分类",
-      "parentId": 0,
+      "title": "古迹",
       "coverUrl": ""
     },
     {
       "id": 4,
-      "title": "第五个分类",
+      "title": "大山",
+      "coverUrl": ""
+    },
+    {
+      "id": 5,
+      "title": "大河",
+      "coverUrl": ""
+    },
+    {
+      "id": 6,
+      "title": "国家",
       "parentId": 0,
       "coverUrl": ""
     }
