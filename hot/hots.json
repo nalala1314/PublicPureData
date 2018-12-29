@@ -1,0 +1,43 @@
+
+{
+  "status": 1,
+  "msg": "",
+  "data": [
+    {
+      "id": 1,
+      "title": "专辑3333一",
+      "categoryId": 1,
+      "categoryName": "普通图片",
+      "thumbSmall": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=255499079,3449959053&fm=26&gp=0.jpg",
+      "thumbLarge": "",
+      "subData": [
+        {
+          "id": 1,
+          "thumbLarge": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3104458054,3755493476&fm=26&gp=0.jpg"
+        },
+        {
+          "id": 2,
+          "thumbLarge": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3426374588,532158635&fm=26&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "专辑2222二",
+      "categoryId": 2,
+      "categoryName": "风景图片",
+      "thumbSmall": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=351651675,4115954471&fm=26&gp=0.jpg",
+      "thumbLarge": "",
+      "subData": [
+        {
+          "id": 1,
+          "thumbLarge": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2250521183,3214486285&fm=26&gp=0.jpg"
+        },
+        {
+          "id": 2,
+          "thumbLarge": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1105426435,1177450088&fm=26&gp=0.jpg"
+        }
+      ]
+    }
+  ]
+}
