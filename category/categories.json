@@ -3,35 +3,32 @@
   "msg": "",
   "data": [
     {
+      "id": "car_model",
+      "title": "车模"
+    },
+    {
       "id": 1,
-      "title": "动物",
-      "coverUrl": ""
+      "title": "动物"
     },
     {
       "id": 2,
-      "title": "风景",
-      "coverUrl": ""
+      "title": "风景"
     },
     {
       "id": 3,
-      "title": "古迹",
-      "coverUrl": ""
+      "title": "古迹"
     },
     {
       "id": 4,
-      "title": "大山",
-      "coverUrl": ""
+      "title": "大山"
     },
     {
       "id": 5,
-      "title": "大河",
-      "coverUrl": ""
+      "title": "大河"
     },
     {
       "id": "sexy_goddess",
-      "title": "性感女神",
-      "parentId": 0,
-      "coverUrl": ""
+      "title": "性感女神"
     }
   ]
 }
