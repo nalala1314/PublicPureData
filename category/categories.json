@@ -11,6 +11,19 @@
       }
     },
     {
+      "id": "cosplay",
+      "title": "Cosplay",
+      "url": "http://n.sinaimg.cn/sinacn16/120/w1080h1440/20181117/9393-hnyuqhh4858238.jpg",
+      "header": {
+        "Referer": "http://k.sina.com.cn/article_6447472172_1804c9e2c00100cyv0.html"
+      },
+      "crop": {
+        "type": "TOP",
+        "width": 1080,
+        "height": 1350
+      }
+    },
+    {
       "id": "sexy_goddess",
       "title": "性感女神",
       "url": "https://newimg.uumnt.cc:8092/Thumb/2018/1212/ad4863caf34b29e3b36fe19d94369102.jpg",
