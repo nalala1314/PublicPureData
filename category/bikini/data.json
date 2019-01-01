@@ -1,0 +1,24 @@
+{
+  "status": 1,
+  "msg": "",
+  "data": [
+    {
+      "id": 1,
+      "title": "111黑天鹅 Sopha 西西写真",
+      "thumbSmall": "https://newimg.uumnt.cc:8092/Thumb/2018/1212/ad4863caf34b29e3b36fe19d94369102.jpg",
+      "header": {
+        "Referer": "https://detail.tmall.com/item.htm?spm=a230r.1.14.42.5dba4d9dckjwQC&id=568525430708&ns=1&abbucket=5"
+      },
+      "parentUrl": "https://newimg.uumnt.cc:8092/Pics/2018/1212/c_03/",
+      "urls": [
+        "02.jpg",
+        "04.jpg",
+        "05.jpg",
+        "06.jpg",
+        "09.jpg",
+        "11.jpg",
+        "13.jpg"
+      ]
+    }
+  ]
+}
