@@ -10,6 +10,11 @@
         "Referer": "https://www.uumtu.com/xinggan/33678.html"
       },
       "parentUrl": "https://newimg.uumnt.cc:8092/Pics/2018/1212/c_03/",
+      "crop": {
+        "type": "TOP",
+        "width": 950,
+        "height": 1350
+      },
       "urls": [
         "02.jpg",
         "04.jpg",
@@ -41,8 +46,7 @@
         "09.jpg",
         "10.jpg",
         "11.jpg",
-        "16.jpg",
-        "21.jpg"
+        "16.jpg"
       ]
     },
     {
