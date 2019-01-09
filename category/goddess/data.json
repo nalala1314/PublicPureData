@@ -50,6 +50,11 @@
       "header": {
         "Referer": "https://www.uumtu.com/qingchun/29648.html"
       },
+      "crop": {
+        "type": "TOP",
+        "width": 920,
+        "height": 1350
+      },
       "parentUrl": "https://newimg.uumnt.cc:8092/Pics/2018/1024/c_06/",
       "urls": [
         "04.jpg",
